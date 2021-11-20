@@ -1,11 +1,3 @@
-/*
-    Nama Kelompok :
- 1. Christian Folma Dio
- 2. Evri Bagas Saputro
- 3. Erwiyono Yusuf
- 4. Bayu Rahman Adinata
-*/
-
 #include<iostream>
 #include <time.h>
 #include <iomanip>
