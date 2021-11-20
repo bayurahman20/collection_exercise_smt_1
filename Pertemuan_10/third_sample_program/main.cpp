@@ -5,18 +5,16 @@ using namespace std;
 void printArr (int[5],int);
 
 int main(void) {
-    int data[5];
-
-    for(int i=0;i<5;i++) {
-        data[i]=i+1;
-    }
-
-    printArr(data,5);
-
-}
-
-void printArr(int data[5], int n){
-    for(int i=0;i<5;i++){
-    cout<<data[i]<<" ";
+    
+    for (int i = 1; i <= 15; i++) {
+        if (i % 3 == 0 && i % 4 == 0) {
+            cout << "OKYES ";
+        } else if (i % 3 == 0) {
+            cout << "OKE ";
+        } else if (i % 4 == 0) {
+            cout << "YES ";
+        } else {
+            cout << i << " ";
+        }
     }
 }
