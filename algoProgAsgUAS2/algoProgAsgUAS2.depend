@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636814079 source:c:\users\evribsap\onedrive - universitas pelita harapan\universitas pelita harapan\uph\data materi\semester 1\algoritma & pemrograman kapk 3573\tugas\algoprogasguas2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
